@@ -6,7 +6,7 @@ This is a web application built using HTML, CSS, and Django, which allows you to
 
 1. Select the restrictions for your password.<br><br>
 ![Image not found](/Readme_images/pwg3.png) <br><br>
-2. Click on `generate` and voila! your password is ready.<br><br>
+2. Click on `Generate` and voila! your password is ready.<br><br>
 ![Image not found](/Readme_images/pwg5.png) <br><br>
 
 ## Functionality
