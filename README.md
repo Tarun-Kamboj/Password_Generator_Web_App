@@ -4,16 +4,14 @@ This is a web application built using HTML, CSS, and Django, which allows you to
 
 ## Working
 
-1. Select the restrictions for your password.<br><br>
-![Image not found](/Readme_images/pwg3.png) <br><br>
-2. Click on `Generate` and voila! your password is ready.<br><br>
-![Image not found](/Readme_images/pwg5.png) <br><br>
+| 1. Select the restrictions for your password. | 2. Click on `Generate` and voila! your password is ready. |
+|-----|-----|
+| ![Image not found](/Readme_images/pwg3.png) | ![Image not found](/Readme_images/pwg5.png) |
 
 ## Functionality
 
-1. Dark Mode <br><br>
-![Image not found](/Readme_images/pwg6.png) <br><br>
-2. Multilingual Support with Google Translate <br><br>
-![Image not found](/Readme_images/pwg2.png) <br><br>
+| 1. Dark Mode | 2. Multilingual Support with Google Translate |
+|-----|-----|
+| ![Image not found](/Readme_images/pwg6.png) | ![Image not found](/Readme_images/pwg2.png) |
 
 ## Thanks for Reading!
