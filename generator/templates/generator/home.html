@@ -1,0 +1,44 @@
+{% extends "generator/base.html" %}
+
+{% load static %}
+
+{% block content %}
+
+<div class="container">
+  <div class="jumbotron">
+    <h1>Welcome To Password Generator 😄</h1>
+  </div>
+  <form class="form-group" action="generated">
+    <label for="length">Select The Length of Password : </label>
+    <select class="form-control" name="length">
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8" selected>8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      <option value="13">13</option>
+      <option value="14">14</option>
+    </select><br>
+    <div class="form-check">
+      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input class="form-check-input" type="checkbox" name="uppercase" id="defaultCheck1">
+      <label class="form-check-label" for="defaultCheck1">
+        Include Uppercase Letters
+      </label><br>
+      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input class="form-check-input" type="checkbox" name="numbers" id="defaultCheck2">
+      <label class="form-check-label" for="defaultCheck2">
+        Include Numbers
+      </label><br>
+      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input class="form-check-input" type="checkbox" name="special" id="defaultCheck3">
+      <label class="form-check-label" for="defaultCheck3">
+        Include Special characters
+      </label><br><br>
+    </div>
+    <input type="submit" class="btn btn-primary" value="Generate">
+  </form>
+</div>
+
+{% endblock %}

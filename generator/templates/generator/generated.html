@@ -1,0 +1,15 @@
+{% extends "generator/base.html" %}
+
+{% load static %}
+
+{% block content %}
+
+    <div class="container">
+      <div class="jumbotron">
+        <h1>Password Generated 🙌</h1>
+      </div>
+      <p align="center" class="alert alert-dark" style="font-size:2rem">{{ password }}</p><br>
+      <a href="" class="btn btn-primary">Generate Another!</a>
+    </div>
+
+{% endblock %}
