@@ -3,9 +3,9 @@
 This is a web application built using HTML, CSS, and Django, which allows you to generate random passwords as per your choice. <br><br>
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](http://kambojtarun.pythonanywhere.com/)<br>
-![made-with-HTML](https://img.shields.io/badge/HTML-5.0-brightgreen?style=for-the-badge&logo=HTML5)
-![made-with-CSS](https://img.shields.io/badge/CSS-3.0-blueviolet?style=for-the-badge&logo=CSS3)
-![made-with-Django](https://img.shields.io/badge/Django-3.0-brightgreen?style=for-the-badge&logo=Django)
+![made-with-HTML](https://img.shields.io/badge/HTML-5.0-ff5230?style=for-the-badge&logo=HTML5)
+![made-with-CSS](https://img.shields.io/badge/CSS-3.0-547fff?style=for-the-badge&logo=CSS3)
+![made-with-Django](https://img.shields.io/badge/Django-3.0-43993d?style=for-the-badge&logo=Django)
 
 ## Working
 
