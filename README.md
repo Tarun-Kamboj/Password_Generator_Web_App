@@ -13,7 +13,7 @@ This is a web application built using HTML, CSS, and Django, which allows you to
 |-----|-----|
 | ![Image not found](/Readme_images/pwg3.png) | ![Image not found](/Readme_images/pwg5.png) |
 
-## Functionality
+## Features
 
 | 1. Dark Mode | 2. Multilingual Support with Google Translate |
 |-----|-----|
