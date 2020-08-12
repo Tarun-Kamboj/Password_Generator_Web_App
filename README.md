@@ -2,7 +2,7 @@
 
 This is a web application built using HTML, CSS, and Django, which allows you to generate random passwords as per your choice. <br><br>
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](http://kambojtarun.pythonanywhere.com/)
 
 ## Working
 
