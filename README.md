@@ -1,4 +1,4 @@
-# Password_Generator_Web_App
+# Password Generator Web App
 
 A web application which allows you to generate random passwords as per your choice. <br><br>
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
